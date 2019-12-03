@@ -1,5 +1,5 @@
 # OC Search Elastic Search UI Prototype
-A prototype search dialog built for [oc-search-elastic](http://bayceer.github.io/oc-search-elastic)
+A prototype search dialog built for [oc-search-elastic](https://github.com/BayCEER/oc-search-elastic)
 
 To run the prototype:
  - Start your oc-search-elastic service 
